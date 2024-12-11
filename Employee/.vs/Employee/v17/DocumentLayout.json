@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaish\\source\\repos\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1698422E-AB81-40BA-952C-A43B6A1C2319}|Employee\\Employee.csproj|c:\\users\\vaish\\source\\repos\\employee\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1698422E-AB81-40BA-952C-A43B6A1C2319}|Employee\\Employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1698422E-AB81-40BA-952C-A43B6A1C2319}|Employee\\Employee.csproj|c:\\users\\vaish\\source\\repos\\employee\\employee\\employeeattendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1698422E-AB81-40BA-952C-A43B6A1C2319}|Employee\\Employee.csproj|solutionrelative:employee\\employeeattendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeAttendence.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\Employee\\Employee\\EmployeeAttendence.cs",
+              "RelativeDocumentMoniker": "Employee\\EmployeeAttendence.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\Employee\\Employee\\EmployeeAttendence.cs",
+              "RelativeToolTip": "Employee\\EmployeeAttendence.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:34:08.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\Employee\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Employee\\Program.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\Employee\\Employee\\Program.cs",
+              "RelativeToolTip": "Employee\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:32:57.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
