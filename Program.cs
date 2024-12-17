@@ -47,8 +47,11 @@ namespace Programs
             //double[] array = { 10.1, 32.9, 45.98, 24 };
             //Console.WriteLine( AverageOfArray.Average(array));
 
-            int[] array = { 2, 4, 5, 8 };
-            Console.WriteLine(PrimeNumberInArray.Prime(array));
+            //int[] array = { 2, 4, 5, 8 };
+            //Console.WriteLine(PrimeNumberInArray.Prime(array));
+
+            int[] array = { 90, 0, 0, 4, 8, 0 };
+            ShiftZeroToEnd.Shift(array);
 
             Console.WriteLine();
         }
