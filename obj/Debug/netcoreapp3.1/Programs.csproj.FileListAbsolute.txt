@@ -1,0 +1,14 @@
+C:\Users\vaish\source\repos\BasicPrograms\Programs\bin\Debug\netcoreapp3.1\Programs.exe
+C:\Users\vaish\source\repos\BasicPrograms\Programs\bin\Debug\netcoreapp3.1\Programs.deps.json
+C:\Users\vaish\source\repos\BasicPrograms\Programs\bin\Debug\netcoreapp3.1\Programs.runtimeconfig.json
+C:\Users\vaish\source\repos\BasicPrograms\Programs\bin\Debug\netcoreapp3.1\Programs.runtimeconfig.dev.json
+C:\Users\vaish\source\repos\BasicPrograms\Programs\bin\Debug\netcoreapp3.1\Programs.dll
+C:\Users\vaish\source\repos\BasicPrograms\Programs\bin\Debug\netcoreapp3.1\Programs.pdb
+C:\Users\vaish\source\repos\BasicPrograms\Programs\obj\Debug\netcoreapp3.1\Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaish\source\repos\BasicPrograms\Programs\obj\Debug\netcoreapp3.1\Programs.AssemblyInfoInputs.cache
+C:\Users\vaish\source\repos\BasicPrograms\Programs\obj\Debug\netcoreapp3.1\Programs.AssemblyInfo.cs
+C:\Users\vaish\source\repos\BasicPrograms\Programs\obj\Debug\netcoreapp3.1\Programs.csproj.CoreCompileInputs.cache
+C:\Users\vaish\source\repos\BasicPrograms\Programs\obj\Debug\netcoreapp3.1\Programs.dll
+C:\Users\vaish\source\repos\BasicPrograms\Programs\obj\Debug\netcoreapp3.1\Programs.pdb
+C:\Users\vaish\source\repos\BasicPrograms\Programs\obj\Debug\netcoreapp3.1\Programs.genruntimeconfig.cache
+C:\Users\vaish\source\repos\BasicPrograms\Programs\obj\Debug\netcoreapp3.1\Programs.sourcelink.json

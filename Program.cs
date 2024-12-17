@@ -23,7 +23,17 @@ namespace Programs
 
             //AreaAndPerimeterOfCircle.areaAndPerimeter();
 
-            DivisibleBY7ButNotMultipleOf5.method();
+            //DivisibleBY7ButNotMultipleOf5.method();
+
+            //ExecutionTime.executionTime();
+
+            //NextDayDate.nextDay();
+
+            //StudentScore.student();
+
+            int factorial = Factorial.FactorialOfNumber(8);
+            Console.WriteLine(factorial);
+
 
             Console.WriteLine();
         }
