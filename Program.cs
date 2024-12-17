@@ -34,8 +34,21 @@ namespace Programs
             //int factorial = Factorial.FactorialOfNumber(8);
             //Console.WriteLine(factorial);
 
-            Print1To100.PrintNum(100);
+            //Print1To100.PrintNum(100);
 
+            //PlingPlangPlong.Divisible(6);
+            //PlingPlangPlong.Divisible(21);
+            //PlingPlangPlong.Divisible(105);
+
+            //CharacterPresence.Presence("vaishnavi");
+            //CharacterPresence.Presence("primare");
+            //CharacterPresence.Presence("owl");
+
+            //double[] array = { 10.1, 32.9, 45.98, 24 };
+            //Console.WriteLine( AverageOfArray.Average(array));
+
+            int[] array = { 2, 4, 5, 8 };
+            Console.WriteLine(PrimeNumberInArray.Prime(array));
 
             Console.WriteLine();
         }
