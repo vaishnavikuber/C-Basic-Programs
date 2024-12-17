@@ -31,8 +31,10 @@ namespace Programs
 
             //StudentScore.student();
 
-            int factorial = Factorial.FactorialOfNumber(8);
-            Console.WriteLine(factorial);
+            //int factorial = Factorial.FactorialOfNumber(8);
+            //Console.WriteLine(factorial);
+
+            Print1To100.PrintNum(100);
 
 
             Console.WriteLine();
